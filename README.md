@@ -39,8 +39,9 @@ If you have any questions feel free to contact me here:
 
 ## Testing
 
-[[[node index or node index.js]]]
+The application is working correctly if all command-line options do what they are meant to without throwing an exception.
 
+[Click here](https://drive.google.com/file/d/1MsZ2VsceyAqKBsoE1Tst0VqO1PZ4RUXw/view?usp=sharing) to watch a walkthrough video on how the application works.
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
